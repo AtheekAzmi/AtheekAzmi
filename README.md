@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about software engineering 
 - 🌱 I’m currently learning @ICBT Srilanka 
 - 💞️ I’m looking to collaborate on a software development
-- 📫 How to reach me @atheekwzmi111@gmail.com
+- 📫 How to reach me @atheekazmi111@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
