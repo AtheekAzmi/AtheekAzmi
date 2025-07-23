@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtheekAzmi
 - 👀 I’m interested in learning about software engineering 
-- 🌱 I’m currently learning @ICBT Srilanka 
+- 🌱 I’m currently pursuing BSc(Hons) in Software Engineering @ICBT Srilanka 
 - 💞️ I’m looking to collaborate on a software development
 - 📫 How to reach me @atheekazmi111@gmail.com
 - 😄 Pronouns: ...
